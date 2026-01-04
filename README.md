@@ -14,3 +14,5 @@ Patients:
 Admin Staff:
 Username- adm1
 Password- aabc123
+
+***TO RUN ENTER THE CODE "python -m streamlit run main.py" WHILE "main.py" IS OPEN***
