@@ -1,5 +1,5 @@
 # Medical-Care-Website
-A website which I created via groupwork for my university assignment
+A website which I created for my university assignment
 
 Login Details (All for functional testing)
 
