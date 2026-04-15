@@ -29,31 +29,31 @@ The project is intended for educational purposes and demonstrates concepts such 
 Medical-Care-Website-main/
 ├── GP_G25/
 │   ├── app/
-|       ├── _pycache_/
-|       ├── admin.py
-|       ├── admin_utils.py
-|       ├── login.py
-|       ├── medStaff.py
-|       ├── patient.py
-|       ├── user.py
+|   |   ├── _pycache_/
+|   |   ├── admin.py
+|   |   ├── admin_utils.py
+|   |   ├── login.py
+|   |   ├── medStaff.py
+|   |   ├── patient.py
+|   |   └── user.py
 │   ├── data/
-|       ├── backups/
-|       ├── login_data.json
+|   |   ├── backups/
+|   |   └── login_data.json                         # Includes the Login Data (For testing purposes
 |   ├── gui/
-|       ├── _pycache_/
-|       ├── admin_account_management.py
-|       ├── assign_carestaff.py
-|       ├── main_dashboard.py
-|       ├── personal_preference.py
-|       ├── report_pages.py
-|       ├── user_database.py
-|       ├── user_settings.py
+|   |   ├── _pycache_/
+|   |   ├── admin_account_management.py
+|   |   ├── assign_carestaff.py
+|   |   ├── main_dashboard.py
+|   |   ├── personal_preference.py
+|   |   ├── report_pages.py
+|   |   ├── user_database.py
+|   |   └── user_settings.py
 |   ├── tests/
-|       ├── test_login.py
-|   ├── MA_TUE_G35_FIT1056_Deliverable2_Report.pdf
+|   |   └── test_login.py                            # code for testing
+|   ├── MA_TUE_G35_FIT1056_Deliverable2_Report.pdf   # Report of the whole group project
 |   ├── carelog.log
-|   ├── main.py
-├── README.md
+|   └── main.py                                      # Main Code should open terminal while this is open
+└── README.md
 ```
 ## Requirements
 
