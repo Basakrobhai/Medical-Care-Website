@@ -4,6 +4,13 @@
 
 The Medical Care Management System is a Python-based application designed to manage healthcare-related operations including patient records, staff coordination, and administrative workflows. It provides a structured role-based system for administrators, medical staff, and patients with a graphical user interface.
 
+This Project was made for my University group project for unit FIT1056 (Introduction to Software Engineering) in Monash, where I had participated by helping in;
+ - Functional Testing
+ - System Context Analysis
+ - Adding a few NFRs
+ - Added Sequence Diagrams
+ - Main code
+
 The project is intended for educational purposes and demonstrates concepts such as modular programming, user authentication, data management, and GUI development.
 
 ## Features
