@@ -105,7 +105,6 @@ Medical-Care-Website-main/
 
 ## Future Improvements
 
-- Conversion into a full web-based system using frameworks such as Flask or Django
 - Integration with a relational database (MySQL or PostgreSQL)
 - Improved authentication and security systems
 - Enhanced UI design and user experience improvements
