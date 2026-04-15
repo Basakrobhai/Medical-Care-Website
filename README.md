@@ -28,11 +28,31 @@ The project is intended for educational purposes and demonstrates concepts such 
 ```
 Medical-Care-Website-main/
 ├── GP_G25/
-│   ├── main.py
 │   ├── app/
-│   ├── gui/
+|       ├── _pycache_/
+|       ├── admin.py
+|       ├── admin_utils.py
+|       ├── login.py
+|       ├── medStaff.py
+|       ├── patient.py
+|       ├── user.py
 │   ├── data/
-│   ├── carelog.log
+|       ├── backups/
+|       ├── login_data.json
+|   ├── gui/
+|       ├── _pycache_/
+|       ├── admin_account_management.py
+|       ├── assign_carestaff.py
+|       ├── main_dashboard.py
+|       ├── personal_preference.py
+|       ├── report_pages.py
+|       ├── user_database.py
+|       ├── user_settings.py
+|   ├── tests/
+|       ├── test_login.py
+|   ├── MA_TUE_G35_FIT1056_Deliverable2_Report.pdf
+|   ├── carelog.log
+|   ├── main.py
 ├── README.md
 ```
 ## Requirements
@@ -64,9 +84,15 @@ Medical-Care-Website-main/
 
 1. Open a terminal in the GP_G25 directory
 
-2. type "python -m streamlit run main.py"
+2. Run the streamlit command **"python -m streamlit run main.py"**
 
 3. The application will launch with a graphical user interface in a LocalHost website
+
+## How to Run Test Case for Unit Testing
+
+1. Open a terminal in the GP_G25 directory
+
+2. Run the pytest command **"python -m pytest -vv""**
 
 
 ## Login Details (All for functional testing)
