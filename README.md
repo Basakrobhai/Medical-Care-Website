@@ -66,11 +66,11 @@ Medical-Care-Website-main/
 
 **Medical Staff:**
 1- Username- med1 Password- abc123 (John Doe)
-2- Username- med2 Password- cbd234 (Jane Doe)
+/n2- Username- med2 Password- cbd234 (Jane Doe)
 
 **Patients:**
 1- Username- pat1 Password- pabc123 (Peter Doe)
-2- Username- pat2 Password- pcbd234 (Joe Doe)
+/n2- Username- pat2 Password- pcbd234 (Joe Doe)
 
 **Admin Staff:**
 Username- adm1
