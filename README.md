@@ -72,16 +72,16 @@ Medical-Care-Website-main/
 ## Login Details (All for functional testing)
 
 **Medical Staff:**
-1- Username- med1 Password- abc123 (John Doe)
-2- Username- med2 Password- cbd234 (Jane Doe)
+- Username- med1 Password- abc123 (John Doe)
+- Username- med2 Password- cbd234 (Jane Doe)
 
 **Patients:**
-1- Username- pat1 Password- pabc123 (Peter Doe)
-2- Username- pat2 Password- pcbd234 (Joe Doe)
+- Username- pat1 Password- pabc123 (Peter Doe)
+-  Username- pat2 Password- pcbd234 (Joe Doe)
 
 **Admin Staff:**
-Username- adm1
-Password- aabc123
+- Username- adm1
+- Password- aabc123
 
 ## How It Works
 
