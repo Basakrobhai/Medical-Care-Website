@@ -35,7 +35,7 @@ Medical-Care-Website-main/
 ## Installation and Setup
 
 1. Download or clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Basakrobhai/Medical-Care-Website.git
 
 2. Navigate into the project directory
    cd Medical-Care-Website-main/GP_G25
@@ -50,8 +50,6 @@ Medical-Care-Website-main/
    Mac/Linux:
    source venv/bin/activate
 
-4. Install dependencies (if a requirements file exists)
-   pip install -r requirements.txt
 
    If no requirements file is present, the project uses standard Python libraries and no extra installation is required.
 
@@ -59,10 +57,24 @@ Medical-Care-Website-main/
 
 1. Open a terminal in the GP_G25 directory
 
-2. Run the main file
-   python main.py
+2. type "python -m streamlit run main.py"
 
-3. The application will launch with a graphical user interface
+3. The application will launch with a graphical user interface in a LocalHost website
+
+
+## Login Details (All for functional testing)
+
+**Medical Staff:**
+1- Username- med1 Password- abc123 (John Doe)
+2- Username- med2 Password- cbd234 (Jane Doe)
+
+**Patients:**
+1- Username- pat1 Password- pabc123 (Peter Doe)
+2- Username- pat2 Password- pcbd234 (Joe Doe)
+
+**Admin Staff:**
+Username- adm1
+Password- aabc123
 
 ## How It Works
 
