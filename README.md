@@ -18,7 +18,7 @@ The project is intended for educational purposes and demonstrates concepts such 
 - Graphical user interface for interaction
 
 ## Project Structure
-
+```
 Medical-Care-Website-main/
 ├── GP_G25/
 │   ├── main.py
@@ -27,7 +27,7 @@ Medical-Care-Website-main/
 │   ├── data/
 │   ├── carelog.log
 ├── README.md
-
+```
 ## Requirements
 
 - Python 3.10 or later
